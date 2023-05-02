@@ -27,6 +27,10 @@ Hey Fellow! I am Rajat. A Freelance Mentor who is currently working with @[udaci
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [It’s Time To Say Goodbye to Heroku and Welcome PythonAnywhere](https://pub.towardsai.net/its-time-to-say-goodbye-to-heroku-and-welcome-pythonanywhere-ec3a2b8caa3b?source=rss-8f25edd1a5d8------2)
+- [How harmful Mobile Phones are today?](https://medium.com/@rajatsharma369007/how-harmful-mobile-phones-are-today-7c1e64abcd38?source=rss-8f25edd1a5d8------2)
+- [STL decomposition : How to do it from Scratch?](https://towardsdatascience.com/stl-decomposition-how-to-do-it-from-scratch-b686711986ec?source=rss-8f25edd1a5d8------2)
+- [Can we predict Stock Price using Deep Learning?](https://medium.com/@rajatsharma369007/can-we-predict-stock-price-using-deep-learning-54e26df8e50b?source=rss-8f25edd1a5d8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
