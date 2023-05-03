@@ -6,26 +6,23 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatsharma369007" alt="rajatsharma369007" /></a> </p>
 
-Hey Fellow! I am Rajat. A Freelance Mentor who is currently working with @[udacity](https://github.com/udacity) to help thousands of global students and enterprise professionals to obtain high-level qualifications and progress into employment. I provide mentorship services across Data Science, Machine Learning and other career-related assistance. **To book my services, click on the button below.**
+As a freelance Data Science mentor, I have a deep passion for helping individuals develop their skills and achieve their goals in this exciting field. With extensive experience in data analysis, machine learning, and statistical modeling, I provide personalized guidance and support to help my students navigate the complexities of data science and achieve success in their careers. 
 
-
+<div align="center">
+<h3>To book my services, click on the button below</h3></div>
 <div align="center"><a href="https://www.rajatsharma.cc/book-online"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4NjZhOTM4NzY2NmU4MWJiNDI0NTM5NzVmZmNmMmNiODhjOWZmMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/0r9xuKGmu4c0r95UYz/giphy.gif" width="300px"></a></div>
 
 <div align="center">
 <h3>You can ask me about:</h3>
-<li>Python Programming</li>
-<li>Data Science</li>
-<li>Machine Learning</li>
-<li>Neural Networks</li>
-<li>Linkedin Improvisation</li>
+Python Programming, Data Science, Machine Learning, Neural Networks, Linkedin Improvisation, Resume Review, Career Counselling
 </div>
 
-<div align="center"><h3>Do you still have any doubt and queries, Reach out to me 👇</h3></a>
-<a href="https://api.whatsapp.com/send/?phone=%2B919413096546&text=Hi%2C+I+have+a+question...&type=phone_number&app_absent=0"><img src="https://media0.giphy.com/media/pPbcqcLelFmj6/giphy.gif" width="250px" height="130"></a>
+<div align="center"><h3>Still have doubts and queries, Feel free to reach out to me 👇</h3></a>
+<a href="https://api.whatsapp.com/send/?phone=%2B919413096546&text=Hi%2C+I+have+a+question...&type=phone_number&app_absent=0"><img src="https://media0.giphy.com/media/pPbcqcLelFmj6/giphy.gif" width="250px" height="130"></a></div>
 
 
 
-### Blogs posts
+### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [It’s Time To Say Goodbye to Heroku and Welcome PythonAnywhere](https://pub.towardsai.net/its-time-to-say-goodbye-to-heroku-and-welcome-pythonanywhere-ec3a2b8caa3b?source=rss-8f25edd1a5d8------2)
 - [How harmful Mobile Phones are today?](https://medium.com/@rajatsharma369007/how-harmful-mobile-phones-are-today-7c1e64abcd38?source=rss-8f25edd1a5d8------2)
