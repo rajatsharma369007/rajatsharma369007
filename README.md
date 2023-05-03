@@ -14,10 +14,10 @@ As a freelance Data Science mentor, I have a deep passion for helping individual
 
 <div align="center">
 <h3>You can ask me about:</h3>
-Python Programming, Data Science, Machine Learning, Neural Networks, Linkedin Improvisation, Resume Review, Career Counselling
+Python Programming<br>Data Science<br>Machine Learning<br>Neural Networks<br>Linkedin Improvisation<br>Resume Review<br>Career Counselling
 </div>
 
-<div align="center"><h3>Still have doubts and queries, Feel free to reach out to me 👇</h3></a>
+<div align="center"><h3>Still have doubts and queries, Feel free to reach out to me 👇</h3></a><br>
 <a href="https://api.whatsapp.com/send/?phone=%2B919413096546&text=Hi%2C+I+have+a+question...&type=phone_number&app_absent=0"><img src="https://media0.giphy.com/media/pPbcqcLelFmj6/giphy.gif" width="250px" height="130"></a></div>
 
 
