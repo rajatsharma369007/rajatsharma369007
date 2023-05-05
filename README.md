@@ -8,6 +8,9 @@
 
 As a freelance Data Science mentor, I have a deep passion for helping individuals develop their skills and achieve their goals in this exciting field. With extensive experience in data analysis, machine learning, and statistical modeling, I provide personalized guidance and support to help my students navigate the complexities of data science and achieve success in their careers. 
 
+From developing programming skills to building and deploying machine learning models, I work closely with my students to ensure they have the knowledge and tools they need to succeed. Whether you're just starting out in data science or looking to take your skills to the next level, I can help you develop a customized learning plan that will help you build a solid foundation in data science and achieve success in your career. With my expertise and support, you can become a confident and skilled data scientist or machine learning engineer, ready to take on even the most complex data challenges.
+
+
 <div align="center">
 <h3>To book my services, click on the button below</h3></div>
 <div align="center"><a href="https://www.rajatsharma.cc/book-online"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4NjZhOTM4NzY2NmU4MWJiNDI0NTM5NzVmZmNmMmNiODhjOWZmMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/0r9xuKGmu4c0r95UYz/giphy.gif" width="300px"></a></div>
